@@ -1,17 +1,32 @@
 ---
 
+region: 
 layout: col-sidebar
 title: OWASP Mayiladuthurai
-tags: Mayiladuthurai OWASP Chapter
-level: 1
-
+site_side: true
+tags: mayiladuthurai
+level: 3
 region: Asia
+currency: usd
+altfooter: true
+meetup-group: OWASP-Mayiladuthurai-Meetup
+country: USA
+postal-code: 80831
 
 
 ---
+
 # Welcome to OWASP Mayiladuthurai Chapter
 
 Welcome to the Mayiladuthurai chapter homepage. The chapter leader is [Manoj Balasubramanian](mailto:manoj.balasubramanian@owasp.org).
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Mayiladuthurai Meetup Group](TBA)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Participation
 
