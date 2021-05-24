@@ -22,7 +22,7 @@ Welcome to the Mayiladuthurai chapter homepage. The chapter leader is [Manoj Bal
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [OWASP Mayiladuthurai Meetup Group](TBA)
+We schedule our meetings on the [OWASP Mayiladuthurai Meetup Group] (https://www.meetup.com/owasp-mayiladuthurai-meetup-group/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -53,21 +53,12 @@ Or consider the value of Individual, Corporate, or Academic Supporter
 membership. [Ready to become a member?](https://owasp.org/membership/)
 
 
-## Speakers
+### Call for co-leaders
 
-Would you like to speak on the upcoming OWASP Mayiladuthurai Webinar? [Contact Us](mailto:manoj.balasubramanian@owasp.org)
+We are currently looking to build up our Leadership Team! If you are interested, please reach out to [Manoj Balasubramanian](mailto:manoj.balasubramanian@owasp.org).
 
-**Email Format :**
 
-- Speaker name
-- Job Role
-- Company / Organization
-- Country
-- Email ID
-- Contact Number
-- Speaker Profile
-- Presentation Details
-    - Name / Title of the Presentation
-    - Abstract of the presentation
-    - Presentation time required
- 
+### Call for speakers
+
+Our goal is to make the OWASP Mayiladuthurai chapter a worldwide community of interest around defence, application security, social awareness on cyber security topics, which are primary need of people in Mayiladuthurai area. If you feel you would like to talk about a topic along these lines, please come speak at our Chapter. As many of these topics are sensitive and our meetings are open to the public, please make sure you are cleared to talk prior to making a booking, and the information is publicly consumable. Additionally, we will be seeking talks on any topic relating to application security.
+
