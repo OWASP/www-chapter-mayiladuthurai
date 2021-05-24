@@ -7,11 +7,11 @@ site_side: true
 tags: mayiladuthurai
 level: 3
 region: Asia
-currency: usd
+currency: INR
 altfooter: true
 meetup-group: OWASP-Mayiladuthurai-Meetup
-country: USA
-postal-code: 80831
+country: India
+postal-code: 
 
 
 ---
@@ -22,7 +22,7 @@ Welcome to the Mayiladuthurai chapter homepage. The chapter leader is [Manoj Bal
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [OWASP Mayiladuthurai Meetup Group] (https://www.meetup.com/owasp-mayiladuthurai-meetup-group/)
+We schedule our meetings on the [OWASP Mayiladuthurai Meetup Group](https://www.meetup.com/owasp-mayiladuthurai-meetup-group/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
