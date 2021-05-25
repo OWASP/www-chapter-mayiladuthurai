@@ -31,7 +31,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 ## Participation
 
 OWASP Foundation is a professional association of global members and is open to anyone
-interested in learning more about software security. Local Chapters are led independently and guided by local leaders in accordance with the Chapter. [Chapter_Leader_Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook).
+interested in learning more about software security. Local Chapters are led independently and guided by local leaders in accordance with the Chapter Policy.
 As of [501(c)(3)](https://www.owasp.org/index.php/About_OWASP) non-profit
 professional association your support and sponsorship of any meeting
 venue and/or refreshments is tax-deductible. Financial contributions
@@ -51,11 +51,6 @@ to this chapter or become a local chapter supporter.
 
 Or consider the value of Individual, Corporate, or Academic Supporter
 membership. [Ready to become a member?](https://owasp.org/membership/)
-
-
-### Call for co-leaders
-
-We are currently looking to build up our Leadership Team! If you are interested, please reach out to [Manoj Balasubramanian](mailto:manoj.balasubramanian@owasp.org).
 
 
 ### Call for speakers
