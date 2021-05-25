@@ -1,6 +1,6 @@
 ---
 
-region: 
+
 layout: col-sidebar
 title: OWASP Mayiladuthurai
 site_side: true
