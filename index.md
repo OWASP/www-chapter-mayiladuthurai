@@ -38,12 +38,12 @@ venue and/or refreshments is tax-deductible. Financial contributions
 should only be made online using the authorized online chapter donation
 button. To be a SPEAKER at ANY OWASP Chapter in the world simply review
 the [speaker
-agreement](https://www.owasp.org/index.php/Speaker_Agreement) and then
+agreement](https://owasp.org/www-policy/) and then
 contact the local chapter leader with details of what OWASP Project,
 independent research or related software security topic you would like
 to present on.
 
-## Sponsorship/Membership
+## Supporter/Membership
 Everyone is welcome and encouraged to participate in our [Projects](https://owasp.org/projects/), [Local Chapters](/chapters), [Events](https://owasp.org/events/), [Online Groups](https://groups.google.com/a/owasp.com/).
 
 [Donate](https://owasp.org/donate/?reponame=www-chapter-mayiladuthurai&title=OWASP+Mayiladuthurai)
