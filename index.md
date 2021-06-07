@@ -11,7 +11,7 @@ currency: INR
 altfooter: true
 meetup-group: OWASP-Mayiladuthurai-Meetup
 country: India
-postal-code: 
+postal-code: 609001
 
 
 ---
