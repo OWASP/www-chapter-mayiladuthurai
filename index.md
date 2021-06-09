@@ -4,7 +4,7 @@
 layout: col-sidebar
 title: OWASP Mayiladuthurai
 site_side: true
-tags: owasp mayiladuthurai chapter india
+tags: OWASP Mayiladuthurai
 level: 3
 region: Asia
 currency: INR
