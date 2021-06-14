@@ -9,7 +9,7 @@ level: 3
 region: Asia
 currency: INR
 altfooter: true
-meetup-group: OWASP-Mayiladuthurai-Meetup
+meetup-group: owasp-mayiladuthurai-meetup-group
 country: India
 postal-code: 609001
 
